@@ -1,0 +1,15 @@
+{
+  "name": "HtmlToPdfWithMustache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saulmadi/HtmlToPdfWithMustache.git",
+  "author": "Saul Mayorquin <saulmadi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "mustache": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
